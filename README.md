@@ -2,7 +2,8 @@
 
 👋 Seja bem-vinda(o)!
 
-É muito bom tê-la(o) aqui. Tenho certeza que você vai adorar este curso. ❤️
+Este é um curso que fiz da Escola TAT (Talking about Testing) do instrutor Walmyr Filho e abaixo está todo o conteúdo que aprendi.
+
 
 ## O que você vai aprender
 
